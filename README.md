@@ -14,3 +14,9 @@ In addition to being intresting, the content should be worth knowing, and well p
 
 * [Building Software Capital: How to write the highest quality code and why](https://www.youtube.com/watch?v=ta3S8CRN2TM) by **David Sankel** [59:38]
   * The [0:00 to 13:30] period is recommended for talking about technical debt and software capital from a business perspective. The rest of the talk is covered better elsewhere.
+
+#### C and C++
+
+* [Efficiency with Algorithms, Performance with Data Structures](https://www.youtube.com/watch?v=fHNmRkzxHWs) by **Chandler Carruth** [1:13:40]
+* [High Performance Code 201: Hybrid Data Structures](https://www.youtube.com/watch?v=vElZc6zSIXM) by **Chandler Carruth** [55:48]
+* [Leak-Freedom in C++... By Default](https://www.youtube.com/watch?v=JfmTagWcqoE) by **Herb Sutter** [1:39:24]
