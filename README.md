@@ -8,6 +8,8 @@ My interests are:
 * Security and Reliability
 * Engineering practices
 
+In addition to being intresting, the content should be worth knowing, and well presented to be awesome enough for this list.
+
 ##### Management
 
 * [Building Software Capital: How to write the highest quality code and why](https://www.youtube.com/watch?v=ta3S8CRN2TM) by **David Sankel** [59:38]
