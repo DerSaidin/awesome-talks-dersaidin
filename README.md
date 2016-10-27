@@ -1,6 +1,12 @@
-# awesome-talks-dersaidin
+# Awesome talks
 
-Awesome talks (in my opinion)
+Same idea as the [Awesome talks](https://github.com/JanVanRyswyck/awesome-talks) list, but curated according to my interests.
+
+My interests are:
+* Systems code: compilers, databases, operating systems (stuff likely to be written in C/C++ or similar)
+* Programming languages
+* Security and Reliability
+* Engineering practices
 
 ##### Management
 
