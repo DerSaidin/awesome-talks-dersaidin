@@ -21,3 +21,7 @@ In addition to being intresting, the content should be worth knowing, and well p
 * [High Performance Code 201: Hybrid Data Structures](https://www.youtube.com/watch?v=vElZc6zSIXM) by **Chandler Carruth** [55:48] CppCon2016
 * [Leak-Freedom in C++... By Default](https://www.youtube.com/watch?v=JfmTagWcqoE) by **Herb Sutter** [1:39:24] CppCon2016
 * [Refactor or die](https://www.youtube.com/watch?v=fzmjXK9JZ9o) by **Mikhail Matrosov** [4:58] CppCon2017
+
+#### Security
+
+* [Security, Moore’s Law, And The Anomaly Of Cheap Complexity](https://docs.google.com/presentation/d/17bKudNDduvN-7hWv7S84MiHUj2AnOPNbwjTM8euDC8w/edit#slide=id.p1v) by **Thomas Dullien** [44:52] CyCon2018 [slides](https://docs.google.com/presentation/d/17bKudNDduvN-7hWv7S84MiHUj2AnOPNbwjTM8euDC8w/edit#slide=id.p1v)
