@@ -25,3 +25,9 @@ In addition to being intresting, the content should be worth knowing, and well p
 #### Security
 
 * [Security, Moore’s Law, And The Anomaly Of Cheap Complexity](https://www.err.ee/836236/video-google-0-projekti-tarkvarainseneri-ettekanne-cyconil) by **Thomas Dullien** [44:52] CyCon2018 [slides](https://docs.google.com/presentation/d/17bKudNDduvN-7hWv7S84MiHUj2AnOPNbwjTM8euDC8w/edit#slide=id.p1v)
+
+#### Design and Tradeoffs
+
+* [How Rust Views Tradeoffs](https://www.youtube.com/watch?v=2ajos-0OWts) by **Steve Klabnik** [46:33] QCon London 2019 [slides](https://qconlondon.com/system/files/presentation-slides/how_rust_views_tradeoffs.pdf)
+  * The [5:56 to 13:06] section "Bending the Curve" poses a great design question: Is the tradeoff fundemental, or can we find a win-win?
+  * The [13:06 to 26:45] section "Design is about Values" makes the point well. Other people's choices look strange if we forget they can have different values.
