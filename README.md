@@ -3,7 +3,8 @@
 Same idea as the [Awesome talks](https://github.com/JanVanRyswyck/awesome-talks) list, but curated according to my interests.
 
 My interests are:
-* Systems code: compilers, databases, operating systems (stuff likely to be written in C/C++ or similar)
+* Static Analysis
+* Systems code: compilers, databases, operating systems (stuff likely to be written in C/C++/Rust or similar)
 * Programming languages
 * Security and Reliability
 * Engineering practices
@@ -21,6 +22,10 @@ In addition to being intresting, the content should be worth knowing, and well p
 * [High Performance Code 201: Hybrid Data Structures](https://www.youtube.com/watch?v=vElZc6zSIXM) by **Chandler Carruth** [55:48] CppCon2016
 * [Leak-Freedom in C++... By Default](https://www.youtube.com/watch?v=JfmTagWcqoE) by **Herb Sutter** [1:39:24] CppCon2016
 * [Refactor or die](https://www.youtube.com/watch?v=fzmjXK9JZ9o) by **Mikhail Matrosov** [4:58] CppCon2017
+
+#### Static Analysis
+
+* [What is Static Analysis?](https://www.youtube.com/watch?v=POvX4hYIoxg) by **Matt Might** [1:17:38]
 
 #### Security
 
