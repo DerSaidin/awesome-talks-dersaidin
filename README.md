@@ -29,8 +29,7 @@ In addition to being intresting, the content should be worth knowing, and well p
 
 * [Refactor or die](https://www.youtube.com/watch?v=fzmjXK9JZ9o) by **Mikhail Matrosov** [4:58] CppCon2017
 * [Building Software Capital: How to write the highest quality code and why](https://www.youtube.com/watch?v=ta3S8CRN2TM) by **David Sankel** [59:38] CppCon2016
-  * The [0:00 to 13:30] period is recommended for talking about technical debt and software capital from a business perspective. The rest of the talk is covered better elsewhere.
+  * The [0:00 to 13:30] period is recommended for talking about technical debt and software capital, considering a business perspective. The rest of the talk is covered better elsewhere.
 * [How Rust Views Tradeoffs](https://www.youtube.com/watch?v=2ajos-0OWts) by **Steve Klabnik** [46:33] QCon London 2019 [slides](https://qconlondon.com/system/files/presentation-slides/how_rust_views_tradeoffs.pdf)
-  * The [5:56 to 13:06] section "Bending the Curve" poses a great design question: Is the tradeoff fundemental, or can we find a win-win?
+  * The [5:56 to 13:06] section "Bending the Curve" poses a great design question: Is the tradeoff fundamental, or can we find a win-win?
   * The [13:06 to 26:45] section "Design is about Values" makes the point well. Other people's choices look strange if we forget they can have different values.
-
