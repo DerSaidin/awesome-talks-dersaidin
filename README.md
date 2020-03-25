@@ -19,7 +19,7 @@ In addition to being intresting, the content should be worth knowing, and well p
 
 #### Static Analysis
 
-* [What is Static Analysis?](https://www.youtube.com/watch?v=POvX4hYIoxg) by **Matt Might** [1:17:38]
+* [What is Static Analysis?](https://www.youtube.com/watch?v=POvX4hYIoxg) by **Matt Might** [1:17:38] [Article](http://matt.might.net/articles/intro-static-analysis/)
 
 #### Security
 
