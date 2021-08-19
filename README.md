@@ -33,3 +33,7 @@ In addition to being intresting, the content should be worth knowing, and well p
 * [How Rust Views Tradeoffs](https://www.youtube.com/watch?v=2ajos-0OWts) by **Steve Klabnik** [46:33] QCon London 2019 [slides](https://qconlondon.com/system/files/presentation-slides/how_rust_views_tradeoffs.pdf)
   * The [5:56 to 13:06] section "Bending the Curve" poses a great design question: Is the tradeoff fundamental, or can we find a win-win?
   * The [13:06 to 26:45] section "Design is about Values" makes the point well. Other people's choices look strange if we forget they can have different values.
+
+#### 3D Graphics
+
+* Nanite, A Deep Dive by **Brian Karis** [??:??] SIGGRAPH2021 [slides](http://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf), [InsideUnreal talk](https://youtu.be/TMorJX3Nj6U?t=3134)
