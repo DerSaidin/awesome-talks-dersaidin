@@ -17,6 +17,10 @@ In addition to being intresting, the content should be worth knowing, and well p
 * [High Performance Code 201: Hybrid Data Structures](https://www.youtube.com/watch?v=vElZc6zSIXM) by **Chandler Carruth** [55:48] CppCon2016
 * [Leak-Freedom in C++... By Default](https://www.youtube.com/watch?v=JfmTagWcqoE) by **Herb Sutter** [1:39:24] CppCon2016
 
+#### Rust
+
+* [Error Handling in Rust - A Pragmatic Approach](https://www.youtube.com/watch?v=jpVzSse7oJ4) by **Luca Palmieri** [33:40] RustLinz 2022-01-27
+
 #### Static Analysis
 
 * [What is Static Analysis?](https://www.youtube.com/watch?v=POvX4hYIoxg) by **Matt Might** [1:17:38] [Article](http://matt.might.net/articles/intro-static-analysis/)
