@@ -20,6 +20,8 @@ In addition to being intresting, the content should be worth knowing, and well p
 #### Rust
 
 * [Error Handling in Rust - A Pragmatic Approach](https://www.youtube.com/watch?v=jpVzSse7oJ4) by **Luca Palmieri** [33:40] RustLinz 2022-01-27
+* [Rust: Your code can be perfect](https://www.youtube.com/watch?v=IA4q0lzmyfM) by **Tris Oaten** [6:31]
+  * A succinct argument for Rust.
 
 #### Static Analysis
 
