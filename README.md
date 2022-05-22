@@ -39,6 +39,8 @@ In addition to being intresting, the content should be worth knowing, and well p
 * [How Rust Views Tradeoffs](https://www.youtube.com/watch?v=2ajos-0OWts) by **Steve Klabnik** [46:33] QCon London 2019 [slides](https://qconlondon.com/system/files/presentation-slides/how_rust_views_tradeoffs.pdf)
   * The [5:56 to 13:06] section "Bending the Curve" poses a great design question: Is the tradeoff fundamental, or can we find a win-win?
   * The [13:06 to 26:45] section "Design is about Values" makes the point well. Other people's choices look strange if we forget they can have different values.
+* [The Man Who Revolutionized Computer Science With Math](https://www.youtube.com/watch?v=rkZzg7Vowao) on **Leslie Lamport** [7:49]
+  * Analogy:  Coding -> programming -> what program should achieve ::: typing -> writing -> ideas the writing should convey
 
 #### 3D Graphics
 
