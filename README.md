@@ -23,6 +23,11 @@ In addition to being intresting, the content should be worth knowing, and well p
 * [Rust: Your code can be perfect](https://www.youtube.com/watch?v=IA4q0lzmyfM) by **Tris Oaten** [6:31]
   * A succinct argument for Rust.
 
+#### Nix
+
+* [Nix + Docker, a match made in heaven](https://www.youtube.com/watch?v=WP_oAmV6C2U) by **Rok Garbas** [1:25:13] Bay Area Nix/NixOS User Group on December 21st, 2020
+  * Great introduction to Nix language [starting here](https://www.youtube.com/watch?v=WP_oAmV6C2U&t=1630s), and walking through some example Nix scripts.
+
 #### Static Analysis
 
 * [What is Static Analysis?](https://www.youtube.com/watch?v=POvX4hYIoxg) by **Matt Might** [1:17:38] [Article](http://matt.might.net/articles/intro-static-analysis/)
