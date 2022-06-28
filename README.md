@@ -25,7 +25,7 @@ In addition to being intresting, the content should be worth knowing, and well p
 
 #### Nix
 
-* [Nix + Docker, a match made in heaven](https://www.youtube.com/watch?v=WP_oAmV6C2U) by **Rok Garbas** [1:25:13] Bay Area Nix/NixOS User Group on December 21st, 2020
+* [Nix + Docker, a match made in heaven](https://www.youtube.com/watch?v=WP_oAmV6C2U) by **Rok Garbas** [1:25:13] Bay Area Nix/NixOS User Group on December 21st, 2020 [files](https://github.com/garbas/talks/tree/main/2020-12-sf-meetup)
   * Great introduction to Nix language [starting here](https://www.youtube.com/watch?v=WP_oAmV6C2U&t=1630s), and walking through some example Nix scripts.
 
 #### Static Analysis
