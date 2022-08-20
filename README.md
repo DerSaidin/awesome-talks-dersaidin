@@ -11,10 +11,18 @@ My interests are:
 
 In addition to being intresting, the content should be worth knowing, and well presented to be awesome enough for this list.
 
-#### C and C++
+#### Performance and Efficiency
 
 * [Efficiency with Algorithms, Performance with Data Structures](https://www.youtube.com/watch?v=fHNmRkzxHWs) by **Chandler Carruth** [1:13:40] CppCon2014
+  * Avoid wasted work. Design APIs to help avoid wasting work. Use dense data structures that maximize cache locality.
 * [High Performance Code 201: Hybrid Data Structures](https://www.youtube.com/watch?v=vElZc6zSIXM) by **Chandler Carruth** [55:48] CppCon2016
+  * Use small-size optimized containers. Use indirection for big objects in elements. Never use linked lists due to cache locality. Pack data in pointer bits.
+* [Practical Data Oriented Design](https://vimeo.com/649009599) by **Andrew Kelley** [46:39] Handmade Seattle 2021
+  * Use 32bit indexes instead of 64bit pointers. Store booleans out-of-band. Eliminate padding with struct-of-arrays. Store sparse data in hashmaps. Use "encodings" instead of OOP/polymorphism.
+  * Also see [operation costs](http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/).
+
+#### C and C++
+
 * [Leak-Freedom in C++... By Default](https://www.youtube.com/watch?v=JfmTagWcqoE) by **Herb Sutter** [1:39:24] CppCon2016
 
 #### Rust
