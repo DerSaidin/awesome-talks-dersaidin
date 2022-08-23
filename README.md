@@ -30,7 +30,7 @@ In addition to being intresting, the content should be worth knowing, and well p
 * [Error Handling in Rust - A Pragmatic Approach](https://www.youtube.com/watch?v=jpVzSse7oJ4) by **Luca Palmieri** [33:40] RustLinz 2022-01-27
 * [Rust: Your code can be perfect](https://www.youtube.com/watch?v=Q3AhzHq8ogs) by **Tris Oaten** [6:50]
   * A succinct argument for Rust.
-* [Type-Driven API Design in Rust](https://www.youtube.com/watch?v=bnnacleqg6k) by **Will Crichton** [40:56]
+* [Type-Driven API Design in Rust](https://www.youtube.com/watch?v=bnnacleqg6k) by **Will Crichton** [40:56] StrangeLoop2021
   * Writing APIs that leverage the type system to prevent bad usage. Includes example of Typestate.
 
 #### Nix
