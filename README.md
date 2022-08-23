@@ -44,7 +44,7 @@ In addition to being intresting, the content should be worth knowing, and well p
 
 #### Security
 
-* [Security, Moore’s Law, And The Anomaly Of Cheap Complexity](https://www.err.ee/836236/video-google-0-projekti-tarkvarainseneri-ettekanne-cyconil) by **Thomas Dullien** [44:52] CyCon2018 [slides](https://docs.google.com/presentation/d/17bKudNDduvN-7hWv7S84MiHUj2AnOPNbwjTM8euDC8w/edit#slide=id.p1v)
+* [Security, Moore’s Law, And The Anomaly Of Cheap Complexity](https://www.youtube.com/watch?v=q98foLaAfX8) by **Thomas Dullien** [44:52] CyCon2018 [slides](https://docs.google.com/presentation/d/17bKudNDduvN-7hWv7S84MiHUj2AnOPNbwjTM8euDC8w/edit#slide=id.p1v)
 
 #### Engineering Practices
 
