@@ -32,6 +32,8 @@ In addition to being intresting, the content should be worth knowing, and well p
   * A succinct argument for Rust.
 * [Type-Driven API Design in Rust](https://www.youtube.com/watch?v=bnnacleqg6k) by **Will Crichton** [40:56] StrangeLoop2021
   * Writing APIs that leverage the type system to prevent bad usage. Includes example of Typestate.
+* [Safety in an Unsafe World](https://www.youtube.com/watch?v=Ba7fajt4l1M) by **Joshua Liebow-Feeser** [27:36] RustConf 2024
+  * Rust's type system can be applied to solve many other safety properties.
 
 #### Nix
 
