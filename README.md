@@ -11,6 +11,10 @@ My interests are:
 
 In addition to being intresting, the content should be worth knowing, and well presented to be awesome enough for this list.
 
+#### AI
+
+* [The Prompting Playbook by Anthropic AI](https://www.youtube.com/watch?v=FMUi7KuSTbs) by **Margot Van Laar** [33:29]
+
 #### Performance and Efficiency
 
 * [Efficiency with Algorithms, Performance with Data Structures](https://www.youtube.com/watch?v=fHNmRkzxHWs) by **Chandler Carruth** [1:13:40] CppCon2014
