@@ -14,6 +14,7 @@ In addition to being intresting, the content should be worth knowing, and well p
 #### AI
 
 * [The Prompting Playbook by Anthropic AI](https://www.youtube.com/watch?v=FMUi7KuSTbs) by **Margot Van Laar** [33:29]
+* [All Code Is Slop (Except Mine)](https://www.youtube.com/watch?v=O_zcc6Xl12g) by **Lauren Tan** (aka poteto) [17:31]
 
 #### Performance and Efficiency
 
